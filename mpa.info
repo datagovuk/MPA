@@ -17,7 +17,6 @@ dependencies[] = path
 dependencies[] = taxonomy
 dependencies[] = search
 dependencies[] = shortcut
-dependencies[] = toolbar
 dependencies[] = overlay
 dependencies[] = field_ui
 dependencies[] = file
@@ -45,6 +44,7 @@ dependencies[] = admin_devel
 dependencies[] = admin_menu_toolbar
 dependencies[] = diff
 dependencies[] = block
+dependencies[] = module_filter
 
 dependencies[] = lexicon
 dependencies[] = user_import
